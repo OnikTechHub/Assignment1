@@ -218,3 +218,19 @@ nav .menu a {
     align-items: center;
     margin: 10px 0px;
 }
+
+.challenge-section{
+    width: 71%;
+    max-width: 1440px;
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+    margin: 0 auto;
+    margin-top:  250px ;
+  
+  
+}
+.challenge-section p{
+    font-size: small;
+    color: #627382;
+    margin: 20px;
+}
